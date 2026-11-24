@@ -18,5 +18,5 @@ export function homepage() {
        
       </div>
     <div class="w-full py-12 px-6 flex flex-col items-center text-center">
-  `
+  ` 
 }
